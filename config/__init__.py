@@ -7,5 +7,5 @@ create time '2023/2/15 16:39'
 Usage:
 
 """
-import conf
-# import config_local
+from conf import *
+# from config_local import *
